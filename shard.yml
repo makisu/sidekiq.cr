@@ -11,7 +11,7 @@ crystal: ">= 1.0.0"
 dependencies:
   redis:
     github: stefanwille/crystal-redis
-    version: ~> 2.7.0
+    version: ~> 2.8.0
   kemal:
     github: kemalcr/kemal
     branch: master
